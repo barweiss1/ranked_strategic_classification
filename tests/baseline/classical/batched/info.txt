@@ -1,4 +1,4 @@
-training time in seconds: 184.28779697418213
+training time in seconds: 82.91634440422058
 epoch: 9
 batch size: 400
 slope low: 40
