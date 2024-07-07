@@ -1,8 +1,8 @@
-training time in seconds: 105.05193209648132
+training time in seconds: 112.4756851196289
 epoch: 9
 batch size: 200
 slope low: 0.1
 slope high: 0.1
 learning rate: 0.1
-validation loss: 1.0766968432850468
+validation loss: 1.0761863046840658
 validation error: 0.040000000000000036
